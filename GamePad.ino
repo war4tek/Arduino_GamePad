@@ -1,6 +1,6 @@
 //Julian Apodaca
 //11-22-19
-//Gamepad 
+//Gamepad for Arduino
 
 const int up_button_pin = 3;  
 const int right_button_pin = 2; 
